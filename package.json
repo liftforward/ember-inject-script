@@ -1,7 +1,7 @@
 {
   "name": "ember-inject-script",
   "description": "inject 3rd party scripts into your ember-cli apps",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -36,7 +36,7 @@
     "glob": "^4.0.5"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.1.0"
+    "ember-cli-babel": "^8.2.0"
   },
   "keywords": [
     "ember-addon",
